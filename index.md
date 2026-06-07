@@ -1,5 +1,5 @@
 ---
-Title: Joint Research Conference 2027
+title: Joint Research Conference 2027
 ---
 
 # Statistics in Quality, Industry, and Technology
