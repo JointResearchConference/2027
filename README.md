@@ -2,8 +2,12 @@
 
 Static GitHub Pages website for the 2027 Joint Research Conference on Statistics in Quality, Industry, and Technology (JRC 2027).
 
-The site homepage is maintained in Markdown at `/tmp/workspace/JointResearchConference/2027/index.md`.
+The site homepage is maintained in Markdown at `index.md`.
 
 ## GitHub Pages
 
-Enable GitHub Pages for this repository and use the default branch root as the source. GitHub Pages will render `index.md` automatically.
+This repository includes a GitHub Actions workflow at `.github/workflows/pages.yml` that deploys the site to GitHub Pages.
+
+1. Push this repository to GitHub.
+2. In **Settings → Pages**, set **Build and deployment** source to **GitHub Actions**.
+3. Push to the default branch (or run the workflow manually) to publish updates.
