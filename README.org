@@ -1,0 +1,90 @@
+#+TITLE: JRC 2027 Website
+#+OPTIONS: toc:nil num:nil
+
+Static GitHub Pages website for the *2027 Joint Research Conference on Statistics in Quality, Industry, and Technology* (JRC 2027), hosted by the Department of Statistics at the University of Connecticut, Storrs.
+
+- *Dates:* June 21–24, 2027
+- *Location:* UConn Storrs, Connecticut
+
+* Content Authoring
+
+All page content is written in *Org-mode* (=.org= files) at the repository root. Edit these files in Emacs or any text editor:
+
+| File                      | Page                  | Status      |
+|---------------------------+-----------------------+-------------|
+| =index.org=               | Home                  | Active      |
+| =program.org=             | Program               | Active      |
+| =registration.org=        | Registration          | Active      |
+| =speakers.org=            | Speakers              | Active      |
+| =organizing-committee.org= | Organizing Committee | Active      |
+| =call-for-papers.org=     | Call for Papers       | On hold     |
+| =short-courses.org=       | Short Courses         | Active      |
+| =venue.org=               | Venue & Accommodation | Active      |
+
+Images go in =assets/images/=. The stylesheet is =assets/css/style.css=.
+
+* Local Development
+
+Requirements: [[https://pandoc.org/installing.html][Pandoc]] ≥ 2.19.
+
+#+BEGIN_SRC bash
+# Build the site into _site/
+bash build.sh
+
+# Build and start a local server at http://localhost:8000
+bash build.sh --serve
+#+END_SRC
+
+* Site Structure
+
+#+BEGIN_SRC
+.
+├── index.org                    ← Home page source
+├── program.org                  ← Program source
+├── registration.org             ← Registration source
+├── speakers.org                 ← Speakers source
+├── organizing-committee.org     ← Committee source
+├── call-for-papers.org          ← Call for Papers source (on hold)
+├── short-courses.org            ← Short Courses source
+├── venue.org                    ← Venue & Accommodation source
+├── templates/
+│   └── page.html                ← Pandoc HTML template (shared layout)
+├── assets/
+│   ├── css/style.css            ← Stylesheet
+│   └── images/                  ← Site images
+├── build.sh                     ← Build script
+└── .github/workflows/pages.yml  ← GitHub Actions CI/CD
+#+END_SRC
+
+* GitHub Pages Deployment
+
+A GitHub Actions workflow (=.github/workflows/pages.yml=) automatically builds and deploys the site on every push to =main= or =master=.
+
+*One-time setup:*
+1. Push this repository to GitHub.
+2. Go to *Settings → Pages* and set the build source to *GitHub Actions*.
+3. Push to =main= to trigger the first deployment.
+
+The workflow installs Pandoc, runs =build.sh=, and deploys the =_site/= directory.
+
+* Template & Styling
+
+The shared HTML layout is in =templates/page.html= (a Pandoc template). It includes the left sidebar navigation, hero section (home page only), page banner, and footer. Styling is in =assets/css/style.css=.
+
+Org-mode headings (=* Heading=) become =<h2>= elements in the output (shifted by one level so the template's =<h1>= takes precedence). Use =** Subheading= for =<h3>=, and so on.
+
+* Org-mode Authoring Notes
+
+- Use =* Heading= for top-level sections within a page (renders as =<h2>=)
+- Use =** Subheading= for subsections (renders as =<h3>=)
+- Bold: =*text*= — note: always leave a space before =\\= on the same line, i.e. =*text* \\= not =*text*\\=
+- Links: =[[url][label]]=
+- Line break: =\\= at end of line
+- Tables: standard org-mode pipe syntax
+- Code blocks: =#+BEGIN_SRC lang= ... =#+END_SRC=
+- Blockquotes: =#+BEGIN_QUOTE= ... =#+END_QUOTE=
+
+To *add a new page:*
+1. Create =slug.org= at the repo root with =#+TITLE: Page Name=
+2. Add the page to the =PAGES= array in =build.sh=
+3. Add the nav link to =templates/page.html= (sidebar and footer)

@@ -1,1 +1,14 @@
 /.agent-shell/
+
+# Build output
+/_site/
+
+# Org-mode export artifacts
+*.html~
+
+# macOS
+.DS_Store
+
+# Editor backup files
+*~
+\#*\#

@@ -1,0 +1,50 @@
+#+TITLE: Registration
+#+OPTIONS: toc:nil num:nil title:nil
+#+DESCRIPTION: Registration information for JRC 2027 — fees, deadlines, and how to register.
+
+* Registration
+
+Registration details and fees for JRC 2027 will be announced in early 2027. This page will be updated with registration links, pricing tiers, and important deadlines.
+
+** Registration Categories
+
+The following fee categories are anticipated (exact amounts and deadlines TBA):
+
+| Category                               | Early Bird | Regular |
+|----------------------------------------+------------+---------|
+| ASA Member                             | TBA        | TBA     |
+| ASA Member (Q&P / SPES section)        | TBA        | TBA     |
+| Non-Member                             | TBA        | TBA     |
+| Student / Postdoctoral Researcher      | TBA        | TBA     |
+| Senior (age 60+)                       | TBA        | TBA     |
+| Guest (banquet / tour only)            | TBA        | TBA     |
+
+- Registration will be processed through the *American Statistical Association (ASA)* website.
+- A separate fee applies for the pre-conference short course.
+
+** What Is Included
+
+Conference registration is expected to include:
+
+- Attendance at all technical sessions, keynote, and plenary talks
+- Breakfasts, lunches, and coffee breaks on conference days
+- Conference banquet
+- UConn Tech Park tour
+
+Short course registration is expected to include coffee breaks and lunch on June 21, 2027.
+
+** Student Support
+
+Limited travel support awards may be available for student participants. Details
+will be posted when confirmed.
+
+Students are encouraged to participate in the student paper competition — see the [[../call-for-papers/][Call for Papers]] page.
+
+** Important Deadlines
+
+| Deadline                  | Date |
+|---------------------------+------|
+| Early registration closes | TBA  |
+| Cancellation deadline     | TBA  |
+
+Cancellation policy details will be posted with the registration announcement.

@@ -1,0 +1,50 @@
+#+TITLE: Program
+#+OPTIONS: toc:nil num:nil title:nil
+#+DESCRIPTION: Conference program for JRC 2027 — session schedule, keynotes, and contributed talks.
+
+* Conference Program
+
+The full program for JRC 2027 is currently being finalized and will be posted
+here once available. Details on keynote speakers, invited sessions, contributed
+talks, the poster session, and short courses will be announced as they are
+confirmed.
+
+Please check back regularly for updates.
+
+# ** Program Format
+
+# The conference will follow a format similar to previous JRC meetings:
+
+# - *Keynote address* — distinguished invited speaker opening the main conference
+#   days
+# - *Plenary talks* — broad-interest presentations scheduled for general attendance
+# - *Invited sessions* — organized thematic sessions with 3–4 speakers each,
+#   proposed by session organizers
+# - *Contributed talks* — individual presentations selected from abstract
+#   submissions
+# - *Poster session* — interactive presentations with dedicated poster viewing time
+# - *Short course* — full-day pre-conference course on a cutting-edge topic (June
+#   21, 2027)
+
+** Topic Areas
+
+Sessions will cover a broad range of topics including, but not limited to:
+
+- Statistical quality control and process improvement
+- Design of experiments and response surface methods
+- Reliability and survival analysis
+- Spatial statistics and environmental applications
+- Machine learning and AI for quality and manufacturing
+- Big data analytics and high-dimensional methods
+- Statistical process monitoring
+- Computer experiments and emulation
+- Industrial statistics and engineering applications
+- Bayesian methods in quality and reliability
+
+** Submission of Session Proposals
+
+Researchers wishing to organize an invited session should contact the Program Chairs. Details on session proposal submission will be posted when the call is announced.
+
+** Downloads
+
+Program PDF and presentation slides will be posted here after the conference.

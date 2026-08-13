@@ -1,0 +1,73 @@
+#+TITLE: Venue & Accommodation
+#+OPTIONS: toc:nil num:nil title:nil
+#+DESCRIPTION: Conference venue and accommodation options for JRC 2027 at the University of Connecticut, Storrs.
+
+* Venue & Accommodation
+
+** Conference Venue
+
+JRC 2027 will be held at the *University of Connecticut, Storrs* campus.
+
+The University of Connecticut is a flagship public research university and home
+to a highly-regarded Department of Statistics. The Storrs campus is located in
+northeastern Connecticut, approximately:
+
+- 45 miles from Hartford, CT (Bradley International Airport — BDL)
+- 90 miles from Boston, MA
+- 100 miles from New York City, NY
+
+Specific venue buildings and room assignments will be posted closer to the conference date.
+
+*** UConn Tech Park
+
+JRC 2027 will include tours of the *UConn Tech Park*, a state-of-the-art research and innovation facility featuring:
+
+- Advanced imaging and materials characterization labs
+- Manufacturing innovation center
+- Energy technology labs
+- Industry partnership facilities
+
+*** Getting to UConn Storrs
+
+*By air:*
+- *Bradley International Airport (BDL)* — Hartford/Springfield, CT (~45 min drive)
+- *T.F. Green Airport (PVD)* — Providence, RI (~1 hr drive)
+- *Logan International Airport (BOS)* — Boston, MA (~1.5 hr drive)
+
+*By car:* UConn Storrs is accessible from I-84 via Route 195 or Route 44.
+
+*By bus:* Peter Pan Bus Lines and CT Transit provide service to Storrs from Hartford, and connecting service from other major cities.
+
+*** Parking
+
+Visitor parking is available on the UConn Storrs campus. Details on parking permits and locations for conference attendees will be posted closer to the event.
+
+** Accommodation
+
+*** Conference Hotel
+
+The conference hotel is the *[[https://www.hilton.com/en/hotels/bdlgsgu-graduate-storrs/][Graduate by Hilton Storrs]]*, located 0.4 miles from the UConn campus.
+
+[[https://www.hilton.com/en/hotels/bdlgsgu-graduate-storrs/][Graduate by Hilton Storrs]]\\
+Storrs, Connecticut\\
+[[https://www.hilton.com/en/hotels/bdlgsgu-graduate-storrs/][hilton.com — Graduate by Hilton Storrs]]
+
+A room block at a discounted conference rate will be reserved. Booking details and the group rate code will be posted here when available.
+
+*** Other Nearby Hotels
+
+Additional accommodation options near UConn Storrs:
+
+- *Mansion Inn Bed & Breakfast* — Storrs, CT (on-campus adjacent)
+- *Homewood Suites by Hilton* — Vernon, CT (~15 min drive)
+- *Marriott Hartford Downtown* — Hartford, CT (~45 min drive, near BDL airport)
+
+*** On-Campus Housing
+
+University of Connecticut summer residence halls may be available for conference participants. Details will be posted when confirmed.
+
+** Questions
+
+For venue and accommodation inquiries, please contact the local arrangements committee:
+- [[mailto:haiying.wang@uconn.edu][haiying.wang@uconn.edu]]
+- [[mailto:nalini.ravishanker@uconn.edu][nalini.ravishanker@uconn.edu]]

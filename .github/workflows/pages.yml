@@ -23,17 +23,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+      - name: Install Pandoc
+        run: |
+          # Download a specific Pandoc release for reproducibility
+          PANDOC_VERSION="3.6.4"
+          PANDOC_DEB="pandoc-${PANDOC_VERSION}-1-amd64.deb"
+          wget -q "https://github.com/jgm/pandoc/releases/download/${PANDOC_VERSION}/${PANDOC_DEB}"
+          sudo dpkg -i "${PANDOC_DEB}"
+          pandoc --version | head -1
 
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+      - name: Build site
+        run: bash build.sh
 
-      - name: Upload artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
 
   deploy:
     environment:

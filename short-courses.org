@@ -1,0 +1,34 @@
+#+TITLE: Short Courses
+#+OPTIONS: toc:nil num:nil title:nil
+#+DESCRIPTION: Pre-conference short courses at JRC 2027 — full-day workshops on cutting-edge statistical topics.
+
+* Short Courses
+
+JRC 2027 will offer one or more *pre-conference short courses* on Monday, June 21, 2027 — the day before the main conference begins.
+
+Short courses are full-day (or half-day) workshops designed to provide hands-on, in-depth training on cutting-edge topics in statistics, data science, and related fields. They are open to all conference registrants as well as non-attendees (subject to capacity).
+
+** 2027 Short Course(s)
+
+/Short course details — title, instructor, and description — will be announced soon./
+
+In 2024 (JRC at the University of Waterloo), the pre-conference short course was:
+
+#+BEGIN_QUOTE
+*Introduction to Large Language Models* \\
+Instructor: Ming Li (Coupang; formerly Amazon, University of Washington)\\
+A full-day, hands-on course covering foundational LLM concepts, cloud-based computing environments, practical text data applications, and integration into the statistical workflow.
+#+END_QUOTE
+
+** Format
+
+- *Date:* Monday, June 21, 2027
+- *Location:* University of Connecticut, Storrs (specific room TBA)
+- *Duration:* Full day (approximately 9:00 a.m. – 5:00 p.m.)
+- *Includes:* Coffee breaks and lunch
+
+** Registration and Fees
+
+Short course registration is separate from main conference registration. Fees and registration details will be announced when the course is confirmed.
+
+Discounted rates may be available for ASA members and students.

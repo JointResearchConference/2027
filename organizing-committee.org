@@ -1,0 +1,43 @@
+#+TITLE: Organizing Committee
+#+OPTIONS: toc:nil num:nil title:nil
+#+DESCRIPTION: Organizing committee members for JRC 2027.
+
+* Organizing Committee
+
+** Conference Co-Chairs
+
+*[[https://ossifragus.github.io/][HaiYing Wang]]* \\
+Associate Professor, Department of Statistics\\
+University of Connecticut, Storrs\\
+[[mailto:haiying.wang@uconn.edu][haiying.wang@uconn.edu]]
+
+*[[https://statistics.uconn.edu/person/nalini-ravishanker/][Nalini Ravishanker]]* \\
+Professor, Department of Statistics\\
+University of Connecticut, Storrs\\
+[[mailto:nalini.ravishanker@uconn.edu][nalini.ravishanker@uconn.edu]]
+
+** Program Co-Chairs
+
+*[[https://sites.google.com/umass.edu/lulukang/home][LuLu Kang]]* — SPES Co-Chair\\
+Professor of Statistics\\
+University of Massachusetts Amherst\\
+[[mailto:lulukang@umass.edu][lulukang@umass.edu]]
+
+*[[https://sites.google.com/site/zhangqiongwisc/home][Qiong Zhang]]* — Q&P Co-Chair\\
+Associate Professor of Statistics\\
+Clemson University\\
+[[mailto:qiongz@clemson.edu][qiongz@clemson.edu]]
+
+** Program Committee
+
+| Name                       | Affiliation                        | Email                                                                       |
+|----------------------------+------------------------------------+-----------------------------------------------------------------------------|
+| Lin Wang                   | Purdue University                  | [[mailto:linwang@purdue.edu][linwang@purdue.edu]]                           |
+| Nathan Wycoff              | University of Massachusetts        | [[mailto:nwycoff@umass.edu][nwycoff@umass.edu]]                             |
+| Rui Tuo                    | Texas A&M University               | [[mailto:ruituo@tamu.edu][ruituo@tamu.edu]]                                 |
+| Shiao Yang                 | Georgia Institute of Technology    | [[mailto:shihao.yang@isye.gatech.edu][shihao.yang@isye.gatech.edu]]         |
+| Mostafa Reisi-Gahrooei     | University of Florida              | [[mailto:mreisigahrooei@ufl.edu][mreisigahrooei@ufl.edu]]                   |
+| Abby (Abigael) Nachtsheim  | Los Alamos National Laboratory     | [[mailto:anachtsheim@lanl.gov][anachtsheim@lanl.gov]]                       |
+| Jon Stallrich              | North Carolina State University    | [[mailto:jwstalli@ncsu.edu][jwstalli@ncsu.edu]]                             |
+| Trevor Harris              | University of Connecticut          | [[mailto:zft24002@uconn.edu][zft24002@uconn.edu]]                           |
+

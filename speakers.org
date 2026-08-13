@@ -1,0 +1,23 @@
+#+TITLE: Speakers
+#+OPTIONS: toc:nil num:nil title:nil
+#+DESCRIPTION: Keynote and invited speakers at JRC 2027.
+
+* Keynote and Plenary Speakers
+
+JRC 2027 will feature a distinguished lineup of keynote and plenary speakers from academia, industry, and government. Speaker announcements will be added here as they are confirmed.
+
+** Keynote Speaker
+
+The keynote address will open the main conference on Tuesday, June 22, 2027.
+
+/Announcement coming soon./
+
+** Plenary Speakers
+
+Plenary talks are scheduled for broad-interest presentations accessible to all attendees.
+
+/Announcements coming soon./
+
+** Invited Session Speakers
+
+Invited sessions are organized by session chairs and cover a broad range of topics in statistical quality, industrial statistics, and related fields. A full list of invited sessions and their speakers will be posted once the program is finalized.

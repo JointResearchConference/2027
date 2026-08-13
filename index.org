@@ -1,0 +1,53 @@
+#+TITLE: Home
+#+OPTIONS: toc:nil num:nil title:nil
+#+DESCRIPTION: Joint Research Conference 2027 on Statistics in Quality, Industry, and Technology. June 21–24, 2027 at the University of Connecticut, Storrs.
+
+* About JRC 2027
+
+The 2027 Joint Research Conference (JRC) is the joint meeting of the *Quality and
+Productivity Research Conference (QPRC)* and the *Spring Research Conference on
+Statistics in Industry and Technology (SRC)*. Hosted by the Department of
+Statistics at the University of Connecticut, Storrs, JRC 2027 brings together
+researchers and practitioners from academia, industry, and government to foster
+interdisciplinary research and innovative solutions to practical problems.
+
+The conference is co-sponsored by the ASA Section on Quality and Productivity
+(Q&P), the ASA Section on Physical and Engineering Sciences (SPES), and the
+Institute of Mathematical Statistics (IMS).
+
+** Conference Highlights
+
+- Keynote and plenary talks by distinguished figures in statistical quality and
+  industrial statistics
+- Scientific sessions spanning a wide range of methodologies and applications
+- Short courses on cutting-edge topics
+- Travel support awards for students and junior researchers
+- Technical tours of UConn Tech Park featuring advanced imaging, manufacturing,
+  and energy labs
+- Conference banquet and networking events
+
+** Key Dates
+
+| Event                        | Date             |
+|------------------------------+------------------|
+| Abstract submission opens    | TBA              |
+| Abstract submission deadline | TBA              |
+| Notification of acceptance   | TBA              |
+| Early registration deadline  | TBA              |
+| Short course                 | June 21, 2027    |
+| Conference                   | June 22–24, 2027 |
+
+Details and deadlines will be posted as they are confirmed. Please check this
+page regularly for updates.
+
+** Organizing Committee Co-Chairs
+
+*HaiYing Wang* \\
+Associate Professor, Department of Statistics\\
+University of Connecticut\\
+[[mailto:haiying.wang@uconn.edu][haiying.wang@uconn.edu]]
+
+*Nalini Ravishanker* \\
+Professor, Department of Statistics\\
+University of Connecticut\\
+[[mailto:nalini.ravishanker@uconn.edu][nalini.ravishanker@uconn.edu]]
