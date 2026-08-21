@@ -86,8 +86,7 @@ build() {
     "registration:page-registration"
     "speakers:page-speakers"
     "organizing-committee:page-organizing-committee"
-    # ON HOLD — uncomment to restore Call for Papers page
-    # "call-for-papers:page-call-for-papers"
+    "student-support:page-student-support"
     "short-courses:page-short-courses"
     "venue:page-venue"
   )

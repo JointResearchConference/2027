@@ -1,0 +1,109 @@
+#+TITLE: Student Support
+#+OPTIONS: toc:nil num:nil title:nil
+#+DESCRIPTION: Student support, Mary G. and Joseph Natrella Scholarship, student paper competition, and call for papers for JRC 2027.
+
+* Student Support
+
+JRC 2027 strongly encourages the participation of students and early-career
+researchers in statistics, quality, industry, and technology. The following
+opportunities are available.
+
+** Mary G. and Joseph Natrella Scholarship
+
+The *Mary G. and Joseph Natrella Scholarship* is awarded annually by the
+Quality and Productivity (Q&P) Section of the American Statistical
+Association (ASA) to support graduate students pursuing degrees with a
+demonstrated interest in the application of statistics to quality and
+productivity.
+
+The scholarship honors the careers of Mary G. Natrella (author of the
+classic NBS/NIST handbook /Experimental Statistics/) and her husband,
+Joseph Natrella.
+
+*** Award Package
+
+Recipients of the scholarship typically receive:
+- A *$3,500* research grant
+- A *$500* travel stipend
+- *Complimentary registration* for the entire conference and its pre-conference
+  short course
+- An opportunity to *present their research* at JRC 2027
+
+*** Eligibility & Application
+
+- Open to full-time graduate students (master's or doctoral level)
+- Evaluated on academic scholarship, teaching and mentoring, leadership and
+  service in the statistics community, and demonstrated experience in
+  statistical applications
+- *Application Deadline:* TBA
+- For full background and past winners, visit the
+  [[https://community.amstat.org/qp/scholarshipsawards/marygandjosephnatrellascholarship][ASA Q&P Natrella Scholarship]] page.
+
+** Student Paper Competition :noexport:
+
+JRC 2027 will hold a student paper competition. Graduate students are
+invited to submit papers on methodology, applications, or case studies
+relevant to the conference themes.
+
+- Full papers (rather than just short abstracts) will be required for
+  consideration.
+- Competition winners will receive awards, travel support, and dedicated
+  presentation slots at the conference.
+- Detailed eligibility criteria, formatting guidelines, and submission
+  instructions will be announced when submissions open.
+
+** Call for Papers & Contributed Submissions :noexport:
+
+In addition to student-specific competitions, all students, academics, and
+industry practitioners are invited to submit abstracts for *contributed talks*
+(20-minute presentations) and *poster presentations*.
+
+*** Topics of Interest
+
+Submissions are welcome on all areas of statistics with applications to
+quality, industry, and technology, including:
+
+- Statistical quality control and process monitoring
+- Design of experiments (classical, computer, and adaptive designs)
+- Response surface methodology
+- Reliability, lifetime data analysis, and survival analysis
+- Industrial statistics and engineering applications
+- Machine learning and AI for quality and manufacturing systems
+- Big data analytics and high-dimensional inference
+- Spatial and environmental statistics
+- Bayesian methods in quality and reliability
+- Measurement systems analysis and gauge studies
+- Computer experiments and surrogate modeling
+
+*** Submission Guidelines
+
+- Submissions will consist of a title and a short abstract (approximately
+  200–300 words).
+- Authors may submit for a *contributed talk*, *poster*, or both.
+- Proposals for *invited sessions* (3–4 speakers on a unified topic) are
+  also welcome and should be sent directly to the Program Chairs.
+
+** Important Dates :noexport:
+
+| Milestone                                 | Date |
+|-------------------------------------------+------|
+| Natrella Scholarship application deadline | TBA  |
+| Abstract submission portal opens          | TBA  |
+| Invited session proposal deadline         | TBA  |
+| Student paper competition deadline        | TBA  |
+| Abstract submission deadline              | TBA  |
+| Notification of acceptance                | TBA  |
+
+** Questions & Contact :noexport:
+
+For questions regarding student support, paper competitions, or
+submissions, please contact the Conference and Program Chairs:
+
+- *[[mailto:haiying.wang@uconn.edu][HaiYing Wang]]* (Conference Co-Chair) \\
+  [[mailto:haiying.wang@uconn.edu][haiying.wang@uconn.edu]]
+- *[[mailto:nalini.ravishanker@uconn.edu][Nalini Ravishanker]]* (Conference Co-Chair) \\
+  [[mailto:nalini.ravishanker@uconn.edu][nalini.ravishanker@uconn.edu]]
+- *[[mailto:lulukang@umass.edu][LuLu Kang]]* (SPES Program Co-Chair) \\
+  [[mailto:lulukang@umass.edu][lulukang@umass.edu]]
+- *[[mailto:qiongz@clemson.edu][Qiong Zhang]]* (Q&P Program Co-Chair) \\
+  [[mailto:qiongz@clemson.edu][qiongz@clemson.edu]]

@@ -17,7 +17,7 @@ All page content is written in *Org-mode* (=.org= files) at the repository root.
 | =registration.org=        | Registration          | Active      |
 | =speakers.org=            | Speakers              | Active      |
 | =organizing-committee.org= | Organizing Committee | Active      |
-| =call-for-papers.org=     | Call for Papers       | On hold     |
+| =student-support.org=     | Student Support       | Active      |
 | =short-courses.org=       | Short Courses         | Active      |
 | =venue.org=               | Venue & Accommodation | Active      |
 
