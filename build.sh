@@ -59,6 +59,16 @@ build() {
     info "Copied assets/"
   fi
 
+  # Copy root static files (Google verification, CNAME, robots.txt, etc.)
+  shopt -s nullglob
+  for static_file in google*.html CNAME robots.txt favicon.ico; do
+    if [[ -f "$static_file" ]]; then
+      cp "$static_file" "$OUTDIR/"
+      info "Copied $static_file"
+    fi
+  done
+  shopt -u nullglob
+
   # ── Home page ────────────────────────────────────────────────────────────
   pandoc "${PANDOC_COMMON[@]}" \
     -V root="" \
