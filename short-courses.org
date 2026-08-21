@@ -12,14 +12,6 @@ Short courses are full-day (or half-day) workshops designed to provide hands-on,
 
 /Short course details — title, instructor, and description — will be announced soon./
 
-In 2024 (JRC at the University of Waterloo), the pre-conference short course was:
-
-#+BEGIN_QUOTE
-*Introduction to Large Language Models* \\
-Instructor: Ming Li (Coupang; formerly Amazon, University of Washington)\\
-A full-day, hands-on course covering foundational LLM concepts, cloud-based computing environments, practical text data applications, and integration into the statistical workflow.
-#+END_QUOTE
-
 ** Format
 
 - *Date:* Monday, June 21, 2027
