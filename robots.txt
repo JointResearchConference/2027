@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jointresearchconference.github.io/2027/sitemap.xml

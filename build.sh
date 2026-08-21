@@ -15,6 +15,7 @@ set -euo pipefail
 TEMPLATE="templates/page.html"
 OUTDIR="_site"
 ASSETS_SRC="assets"
+SITE_URL="${SITE_URL:-https://jointresearchconference.github.io/2027}"
 
 # Pandoc base options shared by every page
 # --shift-heading-level-by=1 turns org's "* Heading" into <h2>,
@@ -59,9 +60,9 @@ build() {
     info "Copied assets/"
   fi
 
-  # Copy root static files (Google verification, CNAME, robots.txt, etc.)
+  # Copy root static files (Google verification, CNAME, robots.txt, sitemap.xml, etc.)
   shopt -s nullglob
-  for static_file in google*.html CNAME robots.txt favicon.ico; do
+  for static_file in google*.html CNAME robots.txt sitemap.xml favicon.ico; do
     if [[ -f "$static_file" ]]; then
       cp "$static_file" "$OUTDIR/"
       info "Copied $static_file"
@@ -109,6 +110,41 @@ build() {
       "$src"
     info "$src → $slug/index.html"
   done
+
+  # ── Sitemap & Robots ──────────────────────────────────────────────────────
+  if [[ ! -f "$OUTDIR/sitemap.xml" ]]; then
+    {
+      echo '<?xml version="1.0" encoding="UTF-8"?>'
+      echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+      echo '  <url>'
+      echo "    <loc>${SITE_URL%/}/</loc>"
+      echo '    <changefreq>weekly</changefreq>'
+      echo '    <priority>1.0</priority>'
+      echo '  </url>'
+      for entry in "${PAGES[@]}"; do
+        slug="${entry%%:*}"
+        if [[ -f "${slug}.org" ]]; then
+          echo '  <url>'
+          echo "    <loc>${SITE_URL%/}/${slug}/</loc>"
+          echo '    <changefreq>weekly</changefreq>'
+          echo '    <priority>0.8</priority>'
+          echo '  </url>'
+        fi
+      done
+      echo '</urlset>'
+    } > "$OUTDIR/sitemap.xml"
+    info "Generated sitemap.xml"
+  fi
+
+  if [[ ! -f "$OUTDIR/robots.txt" ]]; then
+    cat << EOF > "$OUTDIR/robots.txt"
+User-agent: *
+Allow: /
+
+Sitemap: ${SITE_URL%/}/sitemap.xml
+EOF
+    info "Generated robots.txt"
+  fi
 
   echo "────────────────────────────────────────────"
   echo "  Done. Output in $OUTDIR/"
