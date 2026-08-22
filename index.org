@@ -51,3 +51,16 @@ University of Connecticut\\
 Professor, Department of Statistics\\
 University of Connecticut\\
 [[mailto:nalini.ravishanker@uconn.edu][nalini.ravishanker@uconn.edu]]
+
+** Sponsors
+
+#+BEGIN_sponsors-grid
+[[https://www.amstat.org/][file:assets/images/asa-logo.png]] \\
+[[https://www.amstat.org/][American Statistical Association]]
+
+[[https://imstat.org/][file:assets/images/ims-logo.png]] \\
+[[https://imstat.org/][Institute of Mathematical Statistics]]
+
+[[https://uconn.edu/][file:assets/images/uconn-logo.png]] \\
+[[https://uconn.edu/][University of Connecticut]]
+#+END_sponsors-grid
