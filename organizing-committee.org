@@ -40,4 +40,4 @@ Clemson University\\
 | Lin Wang                  | Purdue University                      | [[mailto:linwang@purdue.edu][linwang@purdue.edu]]          |
 | Laura Jean Wendelberger   | Lawrence Livermore National Laboratory | [[mailto:wendelberger1@llnl.gov][wendelberger1@llnl.gov]]      |
 | Nathan Wycoff             | University of Massachusetts            | [[mailto:nwycoff@umass.edu][nwycoff@umass.edu]]           |
-| Shiao Yang                | Georgia Institute of Technology        | [[mailto:shihao.yang@isye.gatech.edu][shihao.yang@isye.gatech.edu]] |
+| Shihao Yang               | Georgia Institute of Technology        | [[mailto:shihao.yang@isye.gatech.edu][shihao.yang@isye.gatech.edu]] |
