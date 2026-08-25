@@ -30,14 +30,14 @@ Clemson University\\
 
 ** Program Committee
 
-| Name                       | Affiliation                        | Email                                                                       |
-|----------------------------+------------------------------------+-----------------------------------------------------------------------------|
-| Lin Wang                   | Purdue University                  | [[mailto:linwang@purdue.edu][linwang@purdue.edu]]                           |
-| Nathan Wycoff              | University of Massachusetts        | [[mailto:nwycoff@umass.edu][nwycoff@umass.edu]]                             |
-| Rui Tuo                    | Texas A&M University               | [[mailto:ruituo@tamu.edu][ruituo@tamu.edu]]                                 |
-| Shiao Yang                 | Georgia Institute of Technology    | [[mailto:shihao.yang@isye.gatech.edu][shihao.yang@isye.gatech.edu]]         |
-| Mostafa Reisi-Gahrooei     | University of Florida              | [[mailto:mreisigahrooei@ufl.edu][mreisigahrooei@ufl.edu]]                   |
-| Abby (Abigael) Nachtsheim  | Los Alamos National Laboratory     | [[mailto:anachtsheim@lanl.gov][anachtsheim@lanl.gov]]                       |
-| Jon Stallrich              | North Carolina State University    | [[mailto:jwstalli@ncsu.edu][jwstalli@ncsu.edu]]                             |
-| Trevor Harris              | University of Connecticut          | [[mailto:zft24002@uconn.edu][zft24002@uconn.edu]]                           |
-
+| Name                      | Affiliation                            | Email                       |
+|---------------------------+----------------------------------------+-----------------------------|
+| Trevor Harris             | University of Connecticut              | [[mailto:zft24002@uconn.edu][zft24002@uconn.edu]]          |
+| Abby (Abigael) Nachtsheim | Los Alamos National Laboratory         | [[mailto:anachtsheim@lanl.gov][anachtsheim@lanl.gov]]        |
+| Mostafa Reisi-Gahrooei    | University of Florida                  | [[mailto:mreisigahrooei@ufl.edu][mreisigahrooei@ufl.edu]]      |
+| Jon Stallrich             | North Carolina State University        | [[mailto:jwstalli@ncsu.edu][jwstalli@ncsu.edu]]           |
+| Rui Tuo                   | Texas A&M University                   | [[mailto:ruituo@tamu.edu][ruituo@tamu.edu]]             |
+| Lin Wang                  | Purdue University                      | [[mailto:linwang@purdue.edu][linwang@purdue.edu]]          |
+| Laura Jean Wendelberger   | Lawrence Livermore National Laboratory | [[mailto:wendelberger1@llnl.gov][wendelberger1@llnl.gov]]      |
+| Nathan Wycoff             | University of Massachusetts            | [[mailto:nwycoff@umass.edu][nwycoff@umass.edu]]           |
+| Shiao Yang                | Georgia Institute of Technology        | [[mailto:shihao.yang@isye.gatech.edu][shihao.yang@isye.gatech.edu]] |
