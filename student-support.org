@@ -10,34 +10,12 @@ opportunities are available.
 
 ** Mary G. and Joseph Natrella Scholarship
 
-The *Mary G. and Joseph Natrella Scholarship* is awarded annually by the
-Quality and Productivity (Q&P) Section of the American Statistical
-Association (ASA) to support graduate students pursuing degrees with a
-demonstrated interest in the application of statistics to quality and
-productivity.
-
-The scholarship honors the careers of Mary G. Natrella (author of the
-classic NBS/NIST handbook /Experimental Statistics/) and her husband,
-Joseph Natrella.
-
-*** Award Package
-
-Recipients of the scholarship typically receive:
-- A *$3,500* research grant
-- A *$500* travel stipend
-- *Complimentary registration* for the entire conference and its pre-conference
-  short course
-- An opportunity to *present their research* at JRC 2027
-
-*** Eligibility & Application
-
-- Open to full-time graduate students (master's or doctoral level)
-- Evaluated on academic scholarship, teaching and mentoring, leadership and
-  service in the statistics community, and demonstrated experience in
-  statistical applications
-- *Application Deadline:* TBA
-- For full background and past winners, visit the
-  [[https://community.amstat.org/qp/scholarshipsawards/marygandjosephnatrellascholarship][ASA Q&P Natrella Scholarship]] page.
+The *Mary G. and Joseph Natrella Scholarship* is awarded annually by the Quality
+and Productivity (Q&P) Section of the American Statistical Association (ASA). It
+supports student participation in the JRC and honors the careers of Mary
+G. Natrella (author of the classic NBS/NIST handbook /Experimental Statistics/)
+and her husband, Joseph Natrella. For more information and application details
+visit the [[https://community.amstat.org/qp/scholarshipsawards/marygandjosephnatrellascholarship][ASA Q&P Natrella Scholarship]] page.
 
 ** Student Paper Competition :noexport:
 
