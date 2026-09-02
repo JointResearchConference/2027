@@ -35,7 +35,18 @@ June 22, 2027.
 
 ** Plenary Speakers
 
-/Announcements coming soon./
+#+ATTR_HTML: :alt Roshan Joseph :width 220px
+[[../assets/images/Roshan-headshot.jpg]]
+
+*** Roshan Joseph
+*A. Russell Chandler III Chair and Professor, Georgia Institute of Technology*
+
+Dr. Roshan Joseph is A. Russell Chandler III Chair and Professor in the Stewart
+School of Industrial and Systems Engineering at Georgia Institute of Technology,
+Atlanta.  He is an author of more than 100 journal articles and a recent book on
+experimental design, and has received many research awards. He is a Fellow of
+the American Statistical Association and American Society for Quality, and a
+former Editor of Technometrics.
 
 ** Invited Session Speakers
 
