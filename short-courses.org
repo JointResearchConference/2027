@@ -1,16 +1,41 @@
-#+TITLE: Short Courses
+#+TITLE: Short Course
 #+OPTIONS: toc:nil num:nil title:nil
-#+DESCRIPTION: Pre-conference short courses at JRC 2027 — full-day workshops on cutting-edge statistical topics.
+#+DESCRIPTION: Scientific Machine Learning with Lu Lu of Yale University — a full-day pre-conference short course at JRC 2027.
 
-* Short Courses
+* Scientific Machine Learning
 
-JRC 2027 will offer one or more *pre-conference short courses* on Monday, June 21, 2027 — the day before the main conference begins.
+** Abstract
 
-Short courses are full-day (or half-day) workshops designed to provide hands-on, in-depth training on cutting-edge topics in statistics, data science, and related fields. They are open to all conference registrants as well as non-attendees (subject to capacity).
+The main objective of this course is to teach concepts and implementation of
+deep learning techniques for scientific and engineering problems. This course
+entails various methods, including the theory and implementation of deep
+learning techniques to solve a broad range of computational problems frequently
+encountered in solid mechanics, fluid mechanics, nondestructive evaluation of
+materials, systems biology, chemistry, non-linear dynamics, etc.
 
-** 2027 Short Course(s)
+** Instructor: Lu Lu, Yale University
 
-/Short course details — title, instructor, and description — will be announced soon./
+#+ATTR_HTML: :alt Lu Lu :width 220px
+[[../assets/images/LuLu2023_square.jpg]]
+
+Lu Lu is an Assistant Professor in the Departments of Statistics and Data
+Science and of Chemical and Environmental Engineering at Yale University.
+Prior to joining Yale, he was an Assistant Professor in the Department of
+Chemical and Biomolecular Engineering at University of Pennsylvania from 2021
+to 2023, and an Applied Mathematics Instructor in the Department of Mathematics
+at Massachusetts Institute of Technology from 2020 to 2021. He obtained his
+Ph.D. degree in Applied Mathematics at Brown University in 2020, master's
+degrees in Engineering, Applied Mathematics, and Computer Science at Brown
+University, and bachelor's degrees in Mechanical Engineering, Economics, and
+Computer Science at Tsinghua University in 2013. His current research interest
+lies in scientific machine learning and artificial intelligence for science,
+including theory, algorithms, software, and its applications to engineering,
+physical, and biological problems. His broad research interests focus on
+multiscale modeling and high performance computing for physical and biological
+systems. He has received the MIT Technology Review Innovators under 35 Asia
+Pacific, U.S. Department of Energy Early Career Award, Mathematics Young
+Investigator Award from MDPI, and Joukowsky Family Foundation Outstanding
+Dissertation Award of Brown University.
 
 ** Format
 
@@ -19,8 +44,7 @@ Short courses are full-day (or half-day) workshops designed to provide hands-on,
 - *Duration:* Full day (approximately 9:00 a.m. – 5:00 p.m.)
 - *Includes:* Coffee breaks and lunch
 
-** Registration and Fees
+** Fees and Registration
 
-Short course registration is separate from main conference registration. Fees and registration details will be announced when the course is confirmed.
-
-Discounted rates may be available for ASA members and students.
+The fee and registration details will be announced soon. Enrollment is subject
+to capacity.
