@@ -12,3 +12,5 @@
 # Editor backup files
 *~
 \#*\#
+
+.hidden
