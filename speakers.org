@@ -15,7 +15,7 @@ industry, and government, and will celebrate our conference honoree.
 *** Emmanuel Yashchin
 *Researcher-in-Residence, American University*
 
-Emmanuel Yashchin is a Researcher-in-Residence at American University.  He
+Dr. Emmanuel Yashchin is a Researcher-in-Residence at American University.  He
 received the Diploma in Applied Mathematics from Vilnius State University in
 1974, the M.Sc. degree in Operations Research and the D.Sc. in Statistics from
 the Technion - Israel Institute of Technology, Haifa, in 1977 and 1981,
@@ -54,8 +54,8 @@ former Editor of Technometrics.
 *** Ying Hung
 *Professor of Statistics, Rutgers University*
 
-Ying Hung is a Professor in the Department of Statistics at Rutgers, the State
-University of New Jersey. Her research focuses on developing statistical
+Dr. Ying Hung is a Professor in the Department of Statistics at Rutgers, the
+State University of New Jersey. Her research focuses on developing statistical
 methods to address challenging problems in science and engineering, including
 computer simulations, inverse problems, and data-driven analysis of dynamical
 systems. She has published broadly in leading journals in statistics and
