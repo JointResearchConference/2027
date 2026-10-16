@@ -55,6 +55,9 @@ University of Connecticut\\
 ** Sponsors
 
 #+BEGIN_sponsors-grid
+[[https://www.jmp.com/en/home][file:assets/images/jmp-logo.png]] \\
+[[https://www.jmp.com/en/home][JMP]]
+
 [[https://www.amstat.org/][file:assets/images/asa-logo.png]] \\
 [[https://www.amstat.org/][American Statistical Association]]
 

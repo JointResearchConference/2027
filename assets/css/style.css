@@ -659,6 +659,20 @@ ul, ol { list-style: none; }
   margin-bottom: var(--sp-8);
 }
 
+/* Featured top row sponsor (JMP) */
+.sponsors-grid > p:first-child {
+  grid-column: 1 / -1;
+  justify-self: center;
+  width: 100%;
+  max-width: 280px;
+  padding: var(--sp-3) var(--sp-4);
+  gap: var(--sp-2);
+}
+
+.sponsors-grid > p:first-child > a:first-child {
+  height: 52px;
+}
+
 .sponsors-grid > p,
 .sponsor-card {
   display: flex;
@@ -729,6 +743,11 @@ ul, ol { list-style: none; }
   max-height: 44px;
 }
 
+.sponsors-grid img[src*="jmp-logo"],
+.sponsor-card__logo--jmp {
+  max-height: 50px;
+}
+
 .sponsors-grid > p:hover img,
 .sponsor-card:hover .sponsor-card__logo {
   transform: scale(1.04);
@@ -754,7 +773,7 @@ ul, ol { list-style: none; }
 
 @media (max-width: 768px) {
   .sponsors-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(3, 1fr);
     gap: var(--sp-3);
   }
 
@@ -766,6 +785,12 @@ ul, ol { list-style: none; }
   .sponsors-grid > p > a:first-child,
   .sponsor-card__logo-wrap {
     height: 48px;
+  }
+}
+
+@media (max-width: 640px) {
+  .sponsors-grid {
+    grid-template-columns: 1fr;
   }
 }
 
