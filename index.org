@@ -1,6 +1,7 @@
 #+TITLE: Home
+#+SUBTITLE: Bridging Statistics, Scientific AI, and Quality Engineering
 #+OPTIONS: toc:nil num:nil title:nil
-#+DESCRIPTION: Joint Research Conference 2027 on Statistics in Quality, Industry, and Technology. June 21–24, 2027 at the University of Connecticut, Storrs.
+#+DESCRIPTION: JRC 2027: Bridging Statistics, Scientific AI, and Quality Engineering. June 21–24, 2027 at the University of Connecticut, Storrs.
 
 * About JRC 2027
 
@@ -10,6 +11,7 @@ Statistics in Industry and Technology (SRC)*. Hosted by the Department of
 Statistics at the University of Connecticut, Storrs, JRC 2027 brings together
 researchers and practitioners from academia, industry, and government to foster
 interdisciplinary research and innovative solutions to practical problems.
+The theme of JRC 2027 is *Bridging Statistics, Scientific AI, and Quality Engineering*.
 
 The conference is co-sponsored by the ASA Section on Quality and Productivity
 (Q&P), the ASA Section on Physical and Engineering Sciences (SPES), and the

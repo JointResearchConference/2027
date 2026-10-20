@@ -403,6 +403,32 @@ ul, ol { list-style: none; }
   max-width: 18ch;
 }
 
+.hero__subtitle {
+  font-size: clamp(var(--fs-sm), 1.8vw, var(--fs-lg));
+  font-weight: 500;
+  color: hsla(0, 0%, 100%, 0.95);
+  margin-top: calc(-1 * var(--sp-4));
+  margin-bottom: var(--sp-8);
+  line-height: var(--lh-snug);
+  text-shadow: 0 2px 12px hsla(219, 60%, 6%, .45);
+  max-width: 100%;
+}
+
+@media (min-width: 680px) {
+  .hero__subtitle {
+    white-space: nowrap;
+  }
+}
+
+.hero__subtitle-label {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: var(--fs-xs);
+  letter-spacing: .12em;
+  color: var(--clr-gold);
+  margin-right: var(--sp-2);
+}
+
 .hero__pills {
   display: flex;
   flex-wrap: wrap;
@@ -489,6 +515,12 @@ ul, ol { list-style: none; }
   font-weight: 700;
   color: #fff;
   line-height: var(--lh-tight);
+}
+
+.page-banner__subtitle {
+  font-size: var(--fs-base);
+  color: hsla(0, 0%, 100%, 0.85);
+  margin-top: var(--sp-2);
 }
 
 /* ════════════════════════════════════════════════════════════════
